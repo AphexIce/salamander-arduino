@@ -1,4 +1,4 @@
-# <span style="color:#D93600">Salamander Arduino</span>
+# <span style="color:#D93600">Salamander Arduino</span> ![alt text](salamander.png "Salamander Nanonix")
 
 Author:             Nanonix  
 Creation Date:      12/11/2016  
@@ -24,6 +24,4 @@ Solder
 
 #### Things to note
 
-When originally testing the code for the adafruit BME280 sensor I found that it did not provide and accurate reading, I instead used the one from cactus.io (with thanks for all the hardwork) and rewrote sections of it to display the altitude. This can be found on the repository. Also my BME280 was on address 0x76 so I modified the adafruit library to reflect this as the default address.  
-
-======
+When originally testing the code for the adafruit BME280 sensor I found that it did not provide and accurate reading, I instead used the one from cactus.io (with thanks for all the hardwork) and rewrote sections of it to display the altitude. This can be found on the repository. Also my BME280 was on address 0x76 so I modified the adafruit library to reflect this as the default address.
