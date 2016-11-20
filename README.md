@@ -1,4 +1,4 @@
-# <span style="color:#D93600">Salamander Arduino</span> ![alt text](salamander.png "Salamander Nanonix")
+# <span style="color:#D93600">Salamander Arduino</span> ![IMAGE](salamander.png)
 
 Author:             Nanonix  
 Creation Date:      12/11/2016  
