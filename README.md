@@ -15,9 +15,9 @@ The aims of this project were to create a device which could be worn on a backpa
 
 Arduino Nano v3 (clone)  
 BME280 Pressure, Temp and Humidity (I2C)  
-DTC1307 RTC (I2C)  
+DS1307 RTC (I2C)  
 OLED 128x64 (I2C)  
-liPo Battery 3.7v  
+LiPo Battery 3.7v  
 Lithium Battery Charger Module  
 Wire  
 Prefboard  
