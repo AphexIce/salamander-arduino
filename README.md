@@ -1,8 +1,8 @@
 # <span style="color:#D93600">Salamander Arduino</span>
 
-Author:             Nanonix
-Creation Date:      12/11/2016
-Website:            [Nanonix] http://www.nanonix.net
+Author:             Nanonix  
+Creation Date:      12/11/2016  
+Website:            [Nanonix] (http://www.nanonix.net)  
 
 ### Project Aims
 
