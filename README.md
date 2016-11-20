@@ -17,8 +17,8 @@ Arduino Nano v3 (clone)
 BME280 Pressure, Temp and Humidity (I2C)  
 DTC1307 RTC (I2C)  
 OLED 128x64 (I2C)
-liPo Battery 3.7v
-Lithium Battery Charger Module
+liPo Battery 3.7v  
+Lithium Battery Charger Module  
 Wire  
 Prefboard  
 Solder  
