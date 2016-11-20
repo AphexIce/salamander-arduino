@@ -14,13 +14,16 @@ Arduino Nano v3 (clone)
 BME280 Pressure, Temp and Humidity (I2C)  
 DTC1307 RTC (I2C)  
 OLED 128x64 (I2C)
-Wire
-Prefboard
-Solder
+Wire  
+Prefboard  
+Solder  
 
 #### Libraries
 
-
+Adafruit-GFX-Library-master  
+Adafruit_SSD1306-master   	
+Okti_Nanonix_BME280_I2C  
+RealTimeClockDS1307-master  
 
 #### Things to note
 
