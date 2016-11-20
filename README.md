@@ -1,8 +1,11 @@
 # <span style="color:#D93600">Salamander Arduino</span> ![IMAGE](salamander.png)
 
+[**Versión en Español**] (README_ES.md)
+
 Author:             Nanonix  
 Creation Date:      12/11/2016  
 Website:            [Nanonix] (http://www.nanonix.net)  
+Version:            0.0.1
 
 ### Project Aims
 
