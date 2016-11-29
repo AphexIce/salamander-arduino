@@ -7,27 +7,27 @@ Creation Date:      12/11/2016
 Website:            [Nanonix] (http://www.nanonix.net)  
 Version:            0.0.1
 
-### Project Aims
+### Objetivos del proyecto
 
-The aims of this project were to create a device which could be worn on a backpack to provide some basic information regarding temperature and altitude (and the possibility of extra functions later) in a waterproof enclosure, which is battery powered. In addition to this it would have to have the potential for the battery to be recharged via renewable energy. This would display the data on an OLED screen and incorporate a clock.
+Los objetivos de este proyecto eran crear un aparato que pudiera ser llevado en una mochila para proveer de alguna información básica en caunto a temperatura y altitud (y la posibilidad de funciones extra más tarde) en una caja estanca, que estuviera alimentada por pilas. Además tendría que tener el potencial para que la batería se recargase mediante energía renovable. Mostraría los datos en una pantalla OLED e incorporaría un reloj.
 
-#### Parts
+#### Partes
 
-Arduino Nano v3 (clone)  
-BME280 Pressure, Temp and Humidity (I2C)  
+Arduino Nano v3 (clon)  
+BME280 Presión, temperatura y humedad (I2C)  
 DTC1307 RTC (I2C)  
 OLED 128x64 (I2C)
-Wire  
-Prefboard  
-Solder  
+Alambre  
+Placa de pruebas  
+Soldadura  
 
-#### Libraries
+#### Bibliotecas
 
 Adafruit-GFX-Library-master  
 Adafruit_SSD1306-master   	
 Okti_Nanonix_BME280_I2C  
 RealTimeClockDS1307-master  
 
-#### Things to note
+#### Cosas a tener en cuenta
 
-When originally testing the code for the adafruit BME280 sensor I found that it did not provide and accurate reading, I instead used the one from cactus.io (with thanks for all the hardwork) and rewrote sections of it to display the altitude. This can be found on the repository. Also my BME280 was on address 0x76 so I modified the adafruit library to reflect this as the default address.
+Cuando estaba comprobando el código para el sensor Adafruit BME280 me di cuenta de que no proveía de una lectura precisa. En su lugar, usé el de cactus.io (mi agradecimiento por su gran trabajo) y reescribí secciones del código para que mostrase la altitud. Esto puede encontrarse en el Repository. También mi BME280 estaba en la dirección 0x76 así que modifique la biblioteca Adafruit para reflejar ésta como la dirección por defecto.
